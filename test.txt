@@ -1,2 +1,9 @@
-kkmonster.... kkkkkkkk tong kakkkkkkkkk
+<<<<<<< HEAD
+kkmonster.... 
+=======
+Apinun
+>>>>>>> 199ba23f01ec2a2199ccdd0b702d9605bc39b1d7
 
+
+
+kkkkkkkk tong kakkkkkkkkk
